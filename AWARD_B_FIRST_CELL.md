@@ -10,7 +10,7 @@
 
 **Registered team name:** FQGroup
 
-**GitHub repository:** https://github.com/<your-account>/<your-repo>  (commit tagged `award-b-submission`)
+**GitHub repository:** [https://github.com/<your-account>/<your-repo>](https://github.com/MinhaoYaooo/FQGroup_STAI_X/)  (commit tagged `award-b-submission`)
 
 ### Agent Design and Architecture
 | Component | What it does |

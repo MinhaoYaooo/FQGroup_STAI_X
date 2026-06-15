@@ -55,7 +55,7 @@ For multimodal data, do not assume any single image filename pattern. First look
 
 For model selection, approximate the official block-averaged MAE when a block or group variable can be inferred:
 
-$$
+\[
 \mathrm{MAE}_{\mathrm{block}}
 =
 \frac{1}{|\mathcal{B}|}
@@ -63,7 +63,7 @@ $$
 \frac{1}{|b|}
 \sum_{i\in b}
 \left|y_i-\hat{y}_i\right|.
-$$
+\]
 
 ## Output Contract
 

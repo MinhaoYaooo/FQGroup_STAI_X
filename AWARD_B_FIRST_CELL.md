@@ -3,10 +3,10 @@
 ### Team info
 | Legal name | Affiliation | Institutional email | Kaggle username |
 |---|---|---|---|
-| [Lingxi Wang] | [Duke-NUS Medical School] | [e1538207@u.nus.edu] | [Lingxi wang_2003] |
-| [Yao Pei] | [Duke-NUS Medical School] | [scpeiyao@gmail.com] | [scpeiyao] |
-| [Minhao Yao] | [Duke-NUS Medical School] | [minhaoyaoooo@gmail.com] | [YAO MINHAO] |
-| [Qiao Fan] | [Duke-NUS Medical School] | [gmsfq@nus.edu.sg] | [Qiao FAN] |
+| Lingxi Wang | Duke-NUS Medical School | e1538207@u.nus.edu | Lingxi wang_2003 |
+| Yao Pei | Duke-NUS Medical School | scpeiyao@gmail.com | scpeiyao |
+| Minhao Yao | Duke-NUS Medical School | minhaoyaoooo@gmail.com | YAO MINHAO |
+| Qiao Fan | Duke-NUS Medical School | gmsfq@nus.edu.sg | Qiao FAN |
 
 **Registered team name:** FQGroup
 
